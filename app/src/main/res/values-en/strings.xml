@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetworkKM</string>
+    <string name="user_name_hint">enter the object name</string>
+    <string name="oui">YES</string>
+    <string name="non">NO</string>
+    <string name="reinitialiser_le_reseaux">reset the network</string>
+    <string name="autre_option">other option</string>
+    <string name="ajouter_objet">add object</string>
+    <string name="ajouter_connexion">add connection</string>
+    <string name="modification_d_objet_connexion">modification of object / connection</string>
+    <string name="langue">language</string>
+</resources>
