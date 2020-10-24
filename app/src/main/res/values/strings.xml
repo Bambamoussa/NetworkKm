@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NetworkKM</string>
+    <string name="user_name_hint">entrez le nom de l\'objet</string>
+    <string name="oui">OUI</string>
+    <string name="non">NON</string>
+    <string name="reinitialiser_le_reseaux">reinitialiser le reseaux</string>
+    <string name="autre_option">autre option</string>
+    <string name="ajouter_objet">ajouter objet</string>
+    <string name="ajouter_connexion">ajouter connexion</string>
+    <string name="modification_d_objet_connexion">modification d\'objet/connexion</string>
+    <string name="langue">langue</string>
+</resources>

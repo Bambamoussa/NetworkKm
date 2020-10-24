@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_reinitialisation"
+        android:title="@string/reinitialiser_le_reseaux"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_autre_option"
+        android:title="@string/autre_option"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_ajouter_objet"
+        android:title="@string/ajouter_objet"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_ajouter_connexion"
+        android:title="@string/ajouter_connexion"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_modification"
+        android:title="@string/modification_d_objet_connexion"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/langue"
+        android:title="@string/langue"
+        app:showAsAction="ifRoom"/>
+
+</menu>
